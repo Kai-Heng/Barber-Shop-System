@@ -199,8 +199,6 @@ int main() {
     
     while (1) {
         if(fire_alarm == 0){
-            
-        
             start_adult_1();
             timer1--;
             if(timer1 == 0){
